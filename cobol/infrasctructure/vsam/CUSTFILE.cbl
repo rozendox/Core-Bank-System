@@ -1,0 +1,1 @@
+      * Customer VSAM handler
